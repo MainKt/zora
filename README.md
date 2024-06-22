@@ -1,4 +1,4 @@
-# Zora desu
+# zora
 
 ## Create a pgvector container
 ```
